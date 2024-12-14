@@ -1,5 +1,3 @@
-﻿//Math >= 90; Biology >= 90, Chemistry >= 90;
-
 int math, biology, chemistry;
 
 Console.WriteLine("Enter your Math result:");
