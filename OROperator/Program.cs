@@ -1,7 +1,3 @@
-﻿//Math >= 90 OR Chemistry >= 90
-
-//math && chemistry || math && biology || chemistry && biology
-
 int math, biology, chemistry;
 
 Console.WriteLine("Enter your Math result:");
