@@ -1,11 +1,3 @@
-﻿//temp <= 0 - Freezing cold
-//temp >0 AND temp < 10 - Cold
-//temps > 10 AND temp < 15 - Chilly
-//temp > 15 AND temp < 20 - Warm
-//temp >= 20 AND temp < 30 - Hot
-//temp >= 30 - Boiling hit
-
-
 Console.WriteLine("Enter the temperature:");
 int temp = Int32.Parse(Console.ReadLine());
 
